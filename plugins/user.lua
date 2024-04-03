@@ -1,3 +1,1 @@
-return {
-  "JoosepAlviste/palenightfall.nvim",
-}
+return {}
